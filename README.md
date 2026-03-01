@@ -67,8 +67,6 @@ By explicitly modeling assumptions, it aims to support more consistent and disci
 
 3. A supply–demand projection chart for 2020–2030 will be generated.
 
-![Lithium Supply-Demand Scenario Model](images/lithium_supply_demand.png)
-
 ---
 ## Data Sources
 
@@ -90,3 +88,4 @@ By explicitly modeling assumptions, it aims to support more consistent and disci
 
 
 Kenta Nagasaki
+

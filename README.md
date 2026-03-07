@@ -54,8 +54,6 @@ By explicitly modeling assumptions, it aims to support more consistent and disci
 
 ---
 
-## How to Run
-
 ## Project Structure
 
 ```text
@@ -66,10 +64,19 @@ By explicitly modeling assumptions, it aims to support more consistent and disci
     └── supply_usgs.csv
 ```
 
-2. Run the script:python Lithium_model.py
+---
 
-3. A supply–demand projection chart for 2020–2030 will be generated.
+## How to Run
 
+1. Arrange the files as shown in the project structure.
+
+2. Run the script:
+
+```
+python Lithium_model.py
+```
+
+3. The program generates Lithium Supply–Demand Scenario Model for 2020–2030.
 ---
 ## Data Sources
 
@@ -91,6 +98,7 @@ By explicitly modeling assumptions, it aims to support more consistent and disci
 
 
 Kenta Nagasaki
+
 
 
 
